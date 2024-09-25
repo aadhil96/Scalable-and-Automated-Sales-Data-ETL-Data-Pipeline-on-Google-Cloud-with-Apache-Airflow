@@ -31,3 +31,7 @@ The pipeline is orchestrated using Apache Airflow, which runs on Google Compute 
    - Aggregate the `Profit` column on a monthly basis.
 3. **Load** the transformed data (monthly profit) into the Processed Data Bucket.
 4. The entire process is automated and scheduled via Apache Airflow, with logs and alerts for monitoring.
+
+### Diagram:
+
+![diagram]()
