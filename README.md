@@ -34,4 +34,4 @@ The pipeline is orchestrated using Apache Airflow, which runs on Google Compute 
 
 ### Diagram:
 
-![diagram]()
+![diagram](https://github.com/aadhil96/Scalable_and_Automated_Sales_Data_ETL_Data_Pipeline_on_Google_Cloud_with_Apache_Airflow/blob/b6978fae500f89795a8307327c84f919c1cb20a0/airflow_2.jpg)
